@@ -1,4 +1,4 @@
-# Penny
+# Ecommerce Platform
 This is our project for Makeathon 3077. This is a price comparison website that compares the prices fo various ecommerce website and shows you the best deal available for a particular product. 
 <br/>
 ## Pre-requisite:
